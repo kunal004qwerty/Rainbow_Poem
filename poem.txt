@@ -5,6 +5,7 @@ pink
 Orange
 Blue
 Green
+Blue
 Yellow
 Red
 THis are the colors of Rainbow
